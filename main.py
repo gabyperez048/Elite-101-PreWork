@@ -1,1 +1,1 @@
-print('LALALALA')
+print('LALALALA$$$')
